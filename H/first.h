@@ -2,3 +2,4 @@
 #define DEMO_INT 200
 #define new_define 400
 #define release_define "release"
+#define release_after_featurebranch1
